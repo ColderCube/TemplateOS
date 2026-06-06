@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/run/media/brokenbrain/New Volume/Projects/TemplateOS/build/cmake_install.cmake",
+		"/run/media/brokenbrain/New Volume/Projects/TemplateOS/build/linker-scripts/cmake_install.cmake",
+		"/run/media/brokenbrain/New Volume/Projects/TemplateOS/build/external/cmake_install.cmake",
+		"/run/media/brokenbrain/New Volume/Projects/TemplateOS/build/external/Limine/cmake_install.cmake",
+		"/run/media/brokenbrain/New Volume/Projects/TemplateOS/build/kernel/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

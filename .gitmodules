@@ -1,0 +1,16 @@
+[submodule "external/cc-runtime"]
+	path = external/cc-runtime
+	url = https://codeberg.org/OSDev/cc-runtime.git
+[submodule "external/freestnd-c-hdrs"]
+	path = external/freestnd-c-hdrs
+	url = https://codeberg.org/OSDev/freestnd-c-hdrs.git
+[submodule "external/freestnd-cxx-hdrs"]
+	path = external/freestnd-cxx-hdrs
+	url = https://codeberg.org/OSDev/freestnd-cxx-hdrs.git
+[submodule "external/limine-protocol"]
+	path = external/limine-protocol
+	url = https://github.com/Limine-Bootloader/limine-protocol.git
+[submodule "external/Limine"]
+	path = external/Limine
+	url = https://github.com/Limine-Bootloader/Limine.git
+	branch = v11.x-binary
